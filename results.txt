@@ -1,0 +1,27 @@
+PCA results:
+Explained Variance Ratio: 0.9549810408789687
+
+Random Forest Results  
+Precision    Recall  F1-score   Support  
+Class 0:     1.00     1.00     1.00     23364  
+Class 1:     1.00     0.99     0.99      6636  
+Accuracy:            1.00  
+Macro Avg:           1.00     1.00     1.00  
+Weighted Avg:        1.00     1.00     1.00  
+ROC AUC: 0.9953
+
+Decision Tree results: 
+Precision    Recall  F1-score   Support  
+Class 0:     1.00     1.00     1.00     23364  
+Class 1:     1.00     0.99     0.99      6636  
+Accuracy:            1.00  
+Macro Avg:           1.00     0.99     1.00  
+Weighted Avg:        1.00     1.00     1.00  
+ROC AUC: 0.9946
+
+LSTM Training results:  
+Epoch 1: accuracy: 0.7713 — val_accuracy: 0.7890  
+Epoch 2: accuracy: 0.7729 — val_accuracy: 0.7890  
+Epoch 3: accuracy: 0.7768 — val_accuracy: 0.7890  
+Epoch 4: accuracy: 0.7739 — val_accuracy: 0.7890  
+Epoch 5: accuracy: 0.7788 — val_accuracy: 0.7890
